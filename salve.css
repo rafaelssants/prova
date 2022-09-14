@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(235, 154, 140);
+}
+
+h1{
+    text-align: center
+}
+
+p {
+    text-align: center
+}
+.conversas {
+    width: 40% ;
+    height: 300px ;
+}
+
+p{
+    text-align: center
+}
+.leitura{
+
+    width:40% ;
+    height: 300px; ;
+}
+p{
+    text-align: center
+}
